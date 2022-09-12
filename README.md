@@ -3,8 +3,6 @@
 <h1 align="center">Hi There , I'm Manikandan Prakash <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
 
-<p align="center"> <img src="https://gpvc.arturio.dev/manik1848" alt="Manik" /> </p>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=manik1848" alt="Manik" /> </p>
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and MERN stack.**
