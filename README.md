@@ -5,11 +5,10 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=manik1848" alt="Manik" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and MERN stack.**
 
-- 👯 I’m looking to collaborate on **Substantial projects**
+- 👯 I’m looking to collaborate on Projects,Tech Articles
 
-- 💬 Talk to me about **Javascript,ReactJS,Algorithms**
+- 💬 Talk to me about Javascript,ReactJS,Algorithms
 
 - 📫 How to reach me **manikprakash1848@gmail.com**
 
