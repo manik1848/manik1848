@@ -23,7 +23,7 @@ const manikandan = {
 
 I write backend systems that don't break at 3 AM, mobile apps that feel native, and infrastructure that scales without firefighting. From crafting real-time ride-hailing platforms to building event-driven pipelines with Kafka and BullMQ — I obsess over clean architecture, type safety across the stack, and making deployments boring.
 
-When I'm not shipping features, I'm deep in container orchestration, squeezing performance out of message queues, or wiring up MQTT brokers for IoT-grade real-time systems.
+When I'm not shipping features, I'm deep in container orchestration, squeezing performance out of message queues, or wiring up MQTT brokers for IoT-grade real-time systems. I also believe in giving back — I publish open-source packages on npm and contribute to the developer community because the best code is the code that helps others build faster.
 
 ---
 
